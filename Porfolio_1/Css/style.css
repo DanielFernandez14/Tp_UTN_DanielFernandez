@@ -34,8 +34,8 @@
 }
 
 .backgroundProyectos{
-    background: rgb(216,215,215);
-    background: linear-gradient(58deg, rgba(216,215,215,1) 7%, rgba(148,148,147,1) 15%, rgba(185,176,168,1) 40%, rgba(131,124,117,1) 61%, rgba(186,184,184,1) 100%);
+    background: rgb(200,200,200);
+background: linear-gradient(58deg, rgba(200,200,200,1) 71%, rgba(186,184,184,0.2778361344537815) 100%);
 
     padding: 25px;
 }
@@ -57,7 +57,10 @@
 }
 
 .formaciones {
-    background-color: aliceblue;
+    background: rgb(200,200,200);
+    background: linear-gradient(58deg, rgba(200,200,200,1) 71%, rgba(186,184,184,0.2778361344537815) 100%);
+
+    padding: 25px;
 }
 
 .cont-formaciones {
